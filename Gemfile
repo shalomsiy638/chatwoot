@@ -238,4 +238,6 @@ group :development, :test do
   gem 'simplecov', '0.17.1', require: false
   gem 'spring'
   gem 'spring-watcher-listen'
+  # greptile fix
+  gem 'mutex_m'
 end
