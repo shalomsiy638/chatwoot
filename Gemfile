@@ -240,5 +240,4 @@ group :development, :test do
   gem 'spring-watcher-listen'
   # greptile fix
   gem 'mutex_m'
-  gem 'rails', '~> 7.0.8'
 end
